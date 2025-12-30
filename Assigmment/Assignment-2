@@ -1,1 +1,181 @@
+CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
 
+
+Group A: Short Questions (2 Marks)
+1. Define the term “Sitemap” in the planning phase.
+
+In the planning phase of web development, a sitemap refers to a structured representation of all the pages that a website will contain and the logical relationships among those pages. It may be created in visual or textual form to clearly outline the website’s navigation flow.
+A sitemap helps developers, designers, and stakeholders understand how information is organized, ensuring clarity, consistency, and smooth navigation before the development process begins.
+
+2. What is the purpose of the “Launch” phase in web development?
+
+The Launch phase is the stage in which the fully developed and tested website is officially deployed to a live server and made accessible to users over the internet.
+The main purpose of this phase is to ensure that the website operates correctly in a real-world environment after final checks such as server configuration, performance optimization, and security verification.
+
+3. Why is “Documentation” important in the development lifecycle?
+
+Documentation plays a vital role in the web development lifecycle because it provides detailed records of the website’s structure, functionality, technologies used, and operational guidelines.
+It helps developers understand the system during maintenance, assists new team members, supports future upgrades, and ensures that knowledge about the system is preserved over time.
+
+4. Differentiate between Front-end and Back-end development.
+Front-end Development	Back-end Development
+Focuses on the visual interface of the website	Focuses on server-side operations
+Deals with user interaction and design	Deals with logic, data handling, and processing
+Uses HTML, CSS, and JavaScript	Uses PHP, Python, Java, and databases
+Executes in the user’s browser	Executes on the server
+Emphasizes usability and user experience	Emphasizes performance, security, and data management
+Group B: Long Questions (4 Marks)
+5. “Planning is the most critical phase of web development.” Discuss this statement.
+
+Planning is widely regarded as the most critical phase of web development because it lays the foundation for the entire project. This phase determines the direction, scope, and feasibility of the website. Without proper planning, even technically strong projects can fail due to unclear goals and poor organization.
+
+During the planning phase, developers work closely with clients to understand expectations, objectives, and constraints. This phase helps identify potential challenges early and reduces the risk of errors during development.
+
+Major activities involved in the planning phase include:
+
+Defining project goals and objectives
+
+Understanding client and business requirements
+
+Identifying the target audience and user needs
+
+Creating sitemap and wireframes
+
+Selecting appropriate tools and technologies
+
+Estimating budget, resources, and timeline
+
+Effective planning ensures smooth execution, minimizes rework, saves cost, and increases the likelihood of project success.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly “finished”?
+
+The Maintenance phase is iterative in nature because it continues throughout the lifetime of a website. After launch, a website must be regularly monitored and updated to meet changing user needs and technological advancements.
+
+Maintenance involves repeatedly improving and refining the website based on feedback, performance issues, and security requirements. This continuous cycle ensures that the website remains functional, secure, and relevant.
+
+Maintenance activities include:
+
+Updating website content regularly
+
+Fixing bugs and technical errors
+
+Enhancing performance and loading speed
+
+Strengthening security measures
+
+Adding new features and improvements
+
+A website is never truly “finished” because technology evolves, user expectations change, and organizations grow. Continuous maintenance ensures long-term usability and effectiveness.
+
+7. Describe the process of Information Gathering. Why is understanding the target audience important?
+
+Information Gathering is the initial and most essential phase of web development, where developers collect all relevant information before starting the project. This phase ensures that the final website aligns with the client’s goals and user expectations.
+
+The process involves analyzing business requirements, understanding user needs, and studying existing systems.
+
+Key activities include:
+
+Conducting client interviews and meetings
+
+Understanding organizational goals
+
+Identifying functional and technical requirements
+
+Analyzing competitor websites
+
+Collecting content and design preferences
+
+Understanding the target audience is crucial because it helps create a website that is user-friendly, accessible, and engaging. A well-targeted website improves satisfaction, usability, and overall success.
+
+Group C: Scenario-Based Questions (5 Marks)
+8. A client wants to skip the Testing phase. Explain the risks involved.
+
+The Testing phase is a fundamental component of the web development lifecycle that ensures the quality, reliability, and security of a website before it is released to users. Skipping this phase can have severe consequences, as testing helps identify errors that may not be visible during development.
+
+Testing ensures that all components of the website function as expected under real-world conditions. Ignoring this phase increases the likelihood of technical failure and user dissatisfaction.
+
+Major Risks of Skipping the Testing Phase
+
+Security Risks:
+Without testing, vulnerabilities may remain undiscovered, making the website prone to hacking, data breaches, and cyberattacks.
+
+Functional Failures:
+Core features such as forms, authentication systems, and payment gateways may malfunction, leading to poor system reliability.
+
+Compatibility Issues:
+The website may not function correctly across different browsers, devices, and operating systems.
+
+Poor User Experience:
+Bugs, slow performance, and broken links frustrate users and damage credibility.
+
+Financial and Reputational Loss:
+Fixing issues after launch is expensive and can result in loss of users and trust.
+
+Conclusion:
+Testing is essential to ensure that a website is secure, stable, and user-friendly. Skipping this phase poses serious long-term risks.
+
+9. A developer starts coding without creating a design or sitemap. Analyze the issue.
+
+Starting development without proper planning and design reflects a lack of adherence to the web development lifecycle. The sitemap and design serve as blueprints that guide development and ensure alignment with user and client expectations.
+
+Without these elements, development becomes unstructured and inefficient.
+
+Issues caused by skipping design and sitemap:
+
+Poor navigation and content organization
+
+Unclear project direction
+
+Increased rework and development cost
+
+Client dissatisfaction due to unmet expectations
+
+Correct development approach:
+
+Requirement gathering
+
+Sitemap creation
+
+Wireframe and design development
+
+Client approval
+
+Coding and development
+
+Testing and deployment
+
+Conclusion:
+Ignoring planning and design leads to confusion and inefficiency. Structured development ensures quality and success.
+
+10. A university website became outdated. Which phase was neglected? Explain.
+
+The Maintenance phase was neglected in this scenario. Maintenance ensures that a website remains updated, accurate, and secure after launch.
+
+A university website serves as a critical source of information for students, faculty, and visitors. Neglecting maintenance results in outdated content and technical issues.
+
+Consequences of neglecting maintenance:
+
+Outdated notices and schedules
+
+Broken links and errors
+
+Security vulnerabilities
+
+Poor performance and usability
+
+Loss of trust and credibility
+
+Maintenance activities include:
+
+Regular content updates
+
+Performance optimization
+
+Security patching
+
+Error fixing
+
+Feature enhancements
+
+Conclusion:
+Continuous maintenance is essential to preserve the reliability and effectiveness of a website, especially for educational institutions.
